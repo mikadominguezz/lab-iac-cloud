@@ -6,6 +6,7 @@ locals {
     Owner       = var.owner
     ManagedBy   = "IaC"
     Course      = "UCU-Cloud"
+    CostCenter  = "lab-ucu"
     Lab         = "v2"
   }
 
